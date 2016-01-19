@@ -230,4 +230,7 @@ All software dependencies are copyright to their respective owners. All fonts ar
 ### About the Hybrid Publishing Group
 
 This Case Study is a project by the Hybrid Publishing Group (HPG), a research project with a mission to support the development of open source software for public infrastructures in publishing. HPG pursues a model of digital interoperability, frameworks as opposed to platforms, that combines ISO standards with experimental approaches to dynamic publishing, using existing Open Source expert projects.  
-HPG develops concepts for new forms of access to information, and specializes within their research in Museums, Libraries and Archives publishing. Hybrid Publishng Gonsortium develops open source software infrastructures for publishing.
+
+HPG develops concepts for new forms of access to information, and specializes within their research in Museums, Libraries and Archives publishing. 
+
+HPG develops open source software infrastructures for publishing.
